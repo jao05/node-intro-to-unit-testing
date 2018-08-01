@@ -2,7 +2,7 @@
 const expect = require('chai').expect;
 
 // import fizzBuzzer
-const adder = require('../fizzBuzzer');
+const fizzBuzzer = require('../fizzBuzzer');
 
 // unit tests for our `fizzBuzzer` function
 describe( 'fizzBuzzer', function()
